@@ -17,7 +17,7 @@ Using App :
 
 ## การทำงานของเกม
 
-1. หน้านี้จะแสดงช่องให้กรอกขนาดรูปภาพที่ต้องการโดยให้กรอก height และ width เพื่อกำหนดขนาดรูปที่จะสุ่ม โดยรูปที่สุ่มก็จะมาจาก [https://loremflickr.com/](https://loremflickr.com/)
+1. หน้านี้จะแสดงช่องให้กรอกขนาดรูปภาพที่ต้องการโดยให้กรอก height และ width เพื่อกำหนดขนาดรูปที่จะสุ่ม 
   
   ![Show Screen](RandomPic/app/src/main/res/drawable/pic1.png)
 
@@ -29,6 +29,6 @@ Using App :
 
   ![Show Screen](RandomPic/app/src/main/res/drawable/pic4.png)
   
-4. สุดท้ายเมื่อป้อนค่าทุกอย่างหมดแล้วกดปุ่ม display image รอสักครู่โปรแกรมจะแสดงรูปที่มีขนาดและประเภทเดียวกันกับที่ผู้ใช้เลือกออกมาด้านล่าง
+4. สุดท้ายเมื่อป้อนค่าทุกอย่างหมดแล้วกดปุ่ม display image รอสักครู่โปรแกรมจะแสดงรูปที่มีขนาดและประเภทเดียวกันกับที่ผู้ใช้เลือกออกมาด้านล่าง โดยรูปที่สุ่มนั้นมาจาก [https://loremflickr.com/](https://loremflickr.com/)
 
   ![Show Screen](RandomPic/app/src/main/res/drawable/pic2.png)
