@@ -7,7 +7,7 @@ Using App :
  ![App](RandomPic/app/src/main/res/drawable/cap3.jpg)
 
 ## clipสาธิตการทำงานของเกมตอบคำถาม
-[https://youtu.be/CgxVgcBEHNE](https://youtu.be/lIzeYWXj4OY)
+[https://youtu.be/lIzeYWXj4OY](https://youtu.be/lIzeYWXj4OY)
 
 ## Members
 
@@ -17,7 +17,7 @@ Using App :
 
 ## การทำงานของเกม
 
-1. หน้านี้จะแสดงช่องให้กรอกขนาดรูปภาพที่ต้องการโดยให้กรอก height และ width เพื่อกำหนดขนาดรูปที่จะสุ่ม 
+1. หน้านี้จะแสดงช่องให้กรอกขนาดรูปภาพที่ต้องการโดยให้กรอก height และ width เพื่อกำหนดขนาดรูปที่จะสุ่ม โดยรูปที่สุ่มก็จะมาจาก [https://loremflickr.com/](https://loremflickr.com/)
   
   ![Show Screen](RandomPic/app/src/main/res/drawable/pic1.png)
 
