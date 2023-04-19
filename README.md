@@ -7,7 +7,7 @@ Using App :
  ![App](RandomPic/app/src/main/res/drawable/cap3.jpg)
 
 ## clipสาธิตการทำงานของเกมตอบคำถาม
-https://youtu.be/CgxVgcBEHNE
+[https://youtu.be/CgxVgcBEHNE](https://youtu.be/lIzeYWXj4OY)
 
 ## Members
 
